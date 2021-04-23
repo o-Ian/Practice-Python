@@ -14,8 +14,6 @@ A repository where i use to practice at Python, with many solved exercices and t
 10. [Repetition structure *while* | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/Repetition%20structure%20while/While%20repetition%20(pt-br).pdf)
 11. [Compound variables - Tuples | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/Tuples/Compound%20variables%20-%20TUPLES%20(pt-br).pdf)
 
+### Credits for:  
+* [@gustavoguanabara](https://github.com/gustavoguanabara)
 
-
-Credits for:  
-* @gustavoguanabara
-* @cursoemvideo
