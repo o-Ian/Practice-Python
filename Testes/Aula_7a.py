@@ -1,0 +1,8 @@
+n1 = int(input('Digite um valor: '))
+n2 = int(input('Digite outro valor: '))
+print('A soma é: {}!' .format(n1+n2))
+print('A subtração entre {} e {} é {}!' .format(n1, n2, n1-n2))
+print('A multiplicação desses valores é {}!' .format(n1 * n2))
+print('A divisão entre {} e {} é {:.3}' .format(n1, n2, n1/n2))
+print('A divisão sem restos é {}!' .format(n1//n2), end = ' ')
+print('O resto dessa divisão é {}' .format(n1 % n2))
