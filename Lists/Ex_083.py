@@ -1,7 +1,8 @@
-expre = []
+expre = ''
 parenteses = 0
-expre.append(input('Digite um expressão: '))
-for c in expre:
-    if c in '()':
-        parenteses += 1
-print(parenteses)
+expre = (input('Digite um expressão: '))
+
+if (expre.count('(')+expre.count(')')) % 2 == 0:
+    print('A expressão é valida!')
+else:
+    print('A expressão não é válida!')
