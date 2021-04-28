@@ -1,8 +1,15 @@
-expre = ''
-parenteses = 0
-expre = (input('Digite um expressão: '))
-
-if (expre.count('(')+expre.count(')')) % 2 == 0:
-    print('A expressão é valida!')
+exp = input('Digite um expressão matemática: ') .replace(' ', '')
+pilha = []
+for c in exp:
+    if c == '(':
+        pilha.append('(')
+    elif c == ')':
+        if len(pilha) > 0:
+            pilha.pop()
+        else:
+            pilha.append(')')
+            break
+if len(pilha) == 0:
+    print('A expressão é válida!')
 else:
-    print('A expressão não é válida!')
+    print('A expressão é inválida!')
