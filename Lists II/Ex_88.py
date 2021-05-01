@@ -6,9 +6,9 @@ for c in range(0, n):
     for cont in range(0, 6):
         num = randint(1, 60)
         while True:
-            while num in lista:
+            while num in jogo:
                 num = randint(1, 60)
-            if num not in lista:
+            if num not in jogo:
                 jogo.append(num)
                 break
     lista.append(jogo[:])

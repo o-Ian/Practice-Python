@@ -1,2 +1,9 @@
-nome = input('Digite um nome: ')
-print('Nome lindo!') if nome == 'Ian' else print('VAI TOMA NO CU NOME FEIO DO CARAIO')
+from random import randint
+x = randint(0, 10)
+while True:
+    while x < 5:
+        x = randint(1, 10)
+    if x >= 5:
+        break
+
+print(x)

@@ -1,10 +1,10 @@
 from random import randint
 from time import sleep
 print('\033[36m-=\033[m'*20)
-print('\033[1;33mVOCÊ CONSEGUE ME GANHAR?\033[m')
+print('\033[1;33mVOCÊ CONSEGUE GANHAR?\033[m')
 print('\033[36m-=\033[m'*20)
 eu = input('\033[1;40mDigite pedra, papel ou tesoura.\033[m ') .strip().lower()
-pc = randint(1,3)
+pc = randint(1, 3)
 if pc == 1:
     pc = 'pedra'
 elif pc == 2:
