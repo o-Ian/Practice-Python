@@ -14,11 +14,8 @@ while True:
 print('=-' * 30)
 print('No   Nome               MÉDIA')
 print('-' * 30)
-for p in lista:
-    print(f'{n:<5}', end='')
-    print(f'{p[0]:15}', end='')
-    print(f'{(p[1] + p[2]) / 2:>8}')
-    n += 1
+for n, p in enumerate(lista):
+    print(f'{n:<5}{p[0]:15}{(p[1] + p[2]) / 2:>8}')
 
 print('-' * 35)
 

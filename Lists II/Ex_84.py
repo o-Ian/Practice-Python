@@ -1,16 +1,14 @@
 pessoas = []
 dados = []
-qntd_pes = 0
 while True:
     dados.append(input('Digite seu nome: '))
     dados.append(float(input('Digite seu peso: ')))
     pessoas.append(dados[:])
     dados.clear()
-    qntd_pes += 1
     r = input('Quer continuar? [S/N]: ')
     if r in 'Nn':
         break
-print(f'{qntd_pes} pessoas foram cadastradas!')
+print(f'{len(pessoas)} pessoas foram cadastradas!')
 pesado = 0
 leve = 0
 nome_pesado = nome_leve = ''
