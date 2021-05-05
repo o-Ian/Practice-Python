@@ -23,10 +23,16 @@ for k, v in enumerate(dados):
 r = 0
 print('=-'*20)
 while True:
-    r = int(input('Mostrar dados de qual jogador? '))
+    while True:
+        r = int(input('Mostrar dados de qual jogador? '))
+        if r > k and r != 999:
+            print(f'ERRO! Não existe jogador com o código {r}! Tente novamente.')
+        else:
+            break
     if r == 999:
         break
     print('-'*30)
     print(f'-LEVANTAMENTO DO JOGADOR {dados[r]["nome"]}')
     for n, c in enumerate(dados[r]["gols"]):
         print(f'Na partida {n+1} fez {c} gols')
+    print('-'*30)
