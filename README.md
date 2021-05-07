@@ -12,11 +12,11 @@ A repository where i use to practice at Python, with many solved exercices and t
 8. [Conditions II | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/07%20-%20Insider%20conditions/Insider%20conditions%20(pt-br).pdf)
 9. [Repetition structure *for* | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/08%20-%20Repetition%20structure%20for/For%20structure%20(pt-br).pdf)
 10. [Repetition structure *while* | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/09%20-%20Repetition%20structure%20while/While%20repetition%20(pt-br).pdf)
-11. [Compound variables - Tuples | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/11%20-%20Tuples/Compound%20variables%20-%20TUPLES%20(pt-br).pdf)
-12. [Compound variables - Lists I (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/12%20-%20Lists/Compound%20variables%20-%20LISTS%20I%20(pt-br).pdf)
-13. [Compound variables - Lists II (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/13%20-%20Lists%20II/Compound%20variables%20-%20LISTS%20II%20(pt-br).pdf)
-14. [Compound variables - Dictionary (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/14%20-%20Dictionary/Compound%20variables%20-%20DICTIONARYS%20(pt-br).pdf)
-15. [Functions and parameters I (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/15%20-%20Functions/Functions%20I%20-%20(pt-br).pdf)
+11. [Tuples | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/11%20-%20Tuples/Compound%20variables%20-%20TUPLES%20(pt-br).pdf)
+12. [Lists I | (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/12%20-%20Lists/Compound%20variables%20-%20LISTS%20I%20(pt-br).pdf)
+13. [Lists II | (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/13%20-%20Lists%20II/Compound%20variables%20-%20LISTS%20II%20(pt-br).pdf)
+14. [Dictionary | (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/14%20-%20Dictionary/Compound%20variables%20-%20DICTIONARYS%20(pt-br).pdf)
+15. [Functions and parameters I | (pt-br)](https://github.com/o-Ian/Practice-Python/blob/main/15%20-%20Functions/Functions%20I%20-%20(pt-br).pdf)
 
 
 ### Credits for:  
