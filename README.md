@@ -8,7 +8,7 @@ A repository where i use to practice at Python, with many solved exercices and t
 4. [Modules | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/03%20-%20Utilizing%20modules/Modules.pdf)
 5. [Text manipulation | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/04%20-%20Text%20manipulation/Text%20manipulation.pdf)
 6. [Conditions | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/05%20-%20Conditions/if-else.pdf)
-7. [Terminal colors | pt-br](https://github.com/o-Ian/Practice-Python/tree/main/06%20-%20Terminal%20colors)
+7. [Terminal colors | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/06%20-%20Terminal%20colors/Terminal%20colors.pdf)
 8. [Conditions II | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/07%20-%20Insider%20conditions/Insider%20conditions%20(pt-br).pdf)
 9. [Repetition structure *for* | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/08%20-%20Repetition%20structure%20for/For%20structure%20(pt-br).pdf)
 10. [Repetition structure *while* | pt-br](https://github.com/o-Ian/Practice-Python/blob/main/09%20-%20Repetition%20structure%20while/While%20repetition%20(pt-br).pdf)
