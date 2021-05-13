@@ -17,6 +17,4 @@ def metade(n):
 
 
 def moeda(n):
-    n = str(n).replace('.', ',')
-    n = 'R$'+n
-    return n
+    return f'{"R$"}{n:.2f}'.replace('.', ',')

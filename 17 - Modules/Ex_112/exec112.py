@@ -1,3 +1,3 @@
-from utilidadesCeV.moeda import resumo
-p = float(input('Digite o preço: '))
-resumo(p, 80, 35)
+from utilidadesCeV import dado, moeda
+n1 = dado.leiaDinheiro('Digite um número: ')
+moeda.resumo(n1, 32, 12)
